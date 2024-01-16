@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="pokedex">
+    <output-path>$PROJECT_DIR$/out/artifacts/pokedex</output-path>
+    <root id="root">
+      <element id="archive" name="pokedex.jar">
+        <element id="module-output" name="pokedex" />
+      </element>
+    </root>
+  </artifact>
+</component>
